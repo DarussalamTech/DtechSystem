@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /dtech/
+Disallow: /hr/
+Sitemap: http://www.dtechsystems.co.uk/sitemap.xml
